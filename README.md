@@ -19,12 +19,12 @@ cd stacklamp
 3. Haz el Script de Bash Ejecutable:
 
 ```bash
-chmod +x script.sh
+chmod +x lamp.sh
 ```
 
 4. Ejecuta el Script:
 ```bash
-./script.sh
+./lamp.sh
 ```
 
 # Despliegue Stack LAMP
@@ -34,7 +34,7 @@ Este script de bash automatiza la instalación y configuración de un entorno LA
 ## Uso
 
 1. Asegúrate de ejecutar el script con permisos de administrador (`sudo`).
-2. Ejecuta el script con el comando `bash script.sh`.
+2. Ejecuta el script con el comando `bash lamp.sh`.
 3. Selecciona las opciones según tus necesidades.
 
 ## Requisitos
