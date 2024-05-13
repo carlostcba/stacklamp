@@ -7,14 +7,22 @@ Este script de bash automatiza la instalación y configuración de un entorno LA
 Sigue estos pasos para ejecutar el script en tu sistema Debian/Ubuntu:
 
 1. Clona el Repositorio:
-
 ```bash
 git clone https://github.com/carlostcba/stacklamp.git
 ```
+
+2. Navega al Directorio del Repositorio:
+3. 
 ```bash
 cd stacklamp
 ```
+3. Haz el Script de Bash Ejecutable:
+
+```bash
 chmod +x script.sh
+```
+
+4. Ejecuta el Script:
 ```bash
 ./script.sh
 ```
