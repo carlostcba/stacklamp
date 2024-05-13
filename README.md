@@ -12,7 +12,7 @@ git clone https://github.com/carlostcba/stacklamp.git
 ```
 
 2. Navega al Directorio del Repositorio:
-3. 
+
 ```bash
 cd stacklamp
 ```
