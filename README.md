@@ -4,6 +4,27 @@ Este script de bash automatiza la instalación y configuración de un entorno LA
 
 ## Uso
 
+Sigue estos pasos para ejecutar el script en tu sistema Debian/Ubuntu:
+
+1. Clona el Repositorio:
+
+```bash
+git clone https://github.com/carlostcba/stacklamp.git
+```
+```bash
+cd stacklamp
+```
+chmod +x script.sh
+```bash
+./script.sh
+```
+
+# Despliegue Stack LAMP
+
+Este script de bash automatiza la instalación y configuración de un entorno LAMP (Linux, Apache, MySQL/MariaDB, PHP) en sistemas Debian/Ubuntu.
+
+## Uso
+
 1. Asegúrate de ejecutar el script con permisos de administrador (`sudo`).
 2. Ejecuta el script con el comando `bash script.sh`.
 3. Selecciona las opciones según tus necesidades.
